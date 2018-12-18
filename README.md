@@ -1,12 +1,11 @@
 # Beethoven! Group15
 เป็นเพลงจังหวะที่ต้องกดให้ตรงจังหวะเมื่อตัวโน๊ตลงมาถึงเส้นที่กำหนด
 
-สามารถ Run ผ่าน Beethoven.jar ได้เลย หรือถ้ารันไม่ได้ สามารถรัน class PlayFrame ใน Eclipt ได้
+สามารถ Run ผ่าน src/Beethoven.jar ได้เลย หรือถ้ารันไม่ได้ สามารถนำไปเปิดใน Eclipse และทำการ run Class PlayFrame ได้
 
 All File in [Google Drive](https://drive.google.com/open?id=1wj1qdhD0hUzooidklP6_bA2xz9w7GdV6 "Google Drive")
 
-File .EXE [Google Drive](https://drive.google.com/open?id=17tTT-QfmRp4C5flfvM-KiseRWEPSyIgN "Google Drive")
-
+File .EXE in [Google Drive](https://drive.google.com/open?id=17tTT-QfmRp4C5flfvM-KiseRWEPSyIgN "Google Drive")
 
 ## วิธีเล่น
 กดปุ่ม D F J K
